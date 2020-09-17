@@ -13,7 +13,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 from matplotlib.figure import Figure
 import matplotlib.patches
 
-#this a comment to test the successful commit 
+#this a comment to test the successful commit
+#commit was successful
 
 def open_file(event=""): #create a function to take a file input with shortcut key enabled.
 
