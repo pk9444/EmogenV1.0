@@ -1,0 +1,5 @@
+#!D:\pycharm\projects\EmogenV1.0\venv\Scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
