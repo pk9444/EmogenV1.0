@@ -205,7 +205,7 @@ window = Tk() #always pass the window variable as a parameter in its component o
 window.title("EMOGEN v1.0 - ईमोजेन भावनात्मक विश्लेषक वर्जन १.० ") #set the title.
 window.config(bg='white') #set a background color.
 window.geometry('1280x700') #set the the window size.
-window.iconbitmap(r'D:\pycharm\projects\Emogen1.0\emoicon.ico')
+#window.iconbitmap(r'\emoicon.ico')
 
 #call save report functions here only. Because we are calling it in the menubar
 #create a menubar for file handling and formatting facilities.
@@ -1074,4 +1074,4 @@ label_imgtwitter.bind("<1>", twitter_callback)
 
 window.mainloop() #end of GUI
 
-#---------------------------------------------------------------------------------------------------------------#
+#-----------------------------------------------------end-------------------------------------------------------------#
